@@ -40,6 +40,7 @@ Para compilar o programa, utilize um compilador C, como `gcc`. Execute o seguint
 ## Dependências
 
 - `math.h`: Para funções matemáticas como `pow` e `sqrt`.
+- `float.h`: Para carregar FLT_MAX como um valor semlhante a infinito. 
 - `stdio.h`: Para operações de entrada e saída.
 - `stdlib.h`: Para alocação de memória dinâmica.
 - `omp.h`: Para paralelização do código usando OpenMP.
